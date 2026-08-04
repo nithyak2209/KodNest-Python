@@ -1,0 +1,12 @@
+age="21"
+course="499.50"
+attempts=3
+age=int(age)
+course=float(course)
+attempts=str(attempts)
+print(age)
+print(type(age))
+print(course)
+print(type(course))
+print(attempts)
+print(type(attempts))
